@@ -13,6 +13,8 @@ def factorial(number):
     24
     >>> factorial(5)
     120
+    >>> factorial(10)
+    3628800
     '''
     assert isinstance(number,int) and number>= 0
     
