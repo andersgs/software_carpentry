@@ -1,5 +1,7 @@
 # count how many human proteins there are in swissprot FASTA file
 
+# Edit made by Adnane
+
 import sys,re
 
 # a function to help in updating the screen with information to the user
