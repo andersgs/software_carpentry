@@ -1,3 +1,4 @@
+#I'll mess with your code Brasileiro!
 from string import maketrans
 class DNAsequence:
     def __init__(self,sequence):
